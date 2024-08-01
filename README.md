@@ -1,5 +1,6 @@
 # React + Vite
 # Firebase
+Zingme is a social media platform designed to connect people from all over the world. Similar to Facebook, Zingmee allows users to create profiles, connect with friends, share updates, photos, and videos, and much more. This project is built using modern web technologies and follows best practices for scalability and maintainability.
 Built using:
 
 - Front-end library: React
