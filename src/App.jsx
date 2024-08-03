@@ -7,9 +7,7 @@ function App() {
   return (
     <h1 className="App">
       <BrowserRouter>
-        <AppContext>
           <Pages></Pages>
-        </AppContext>
       </BrowserRouter>
     </h1>
   );
