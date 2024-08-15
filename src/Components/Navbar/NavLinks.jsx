@@ -1,5 +1,3 @@
-import React from 'react';
-
 const NavLinks = () => {
   return (
     <div className="flex justify-center items-center cursor-pointer">
