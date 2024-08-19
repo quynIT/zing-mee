@@ -1,4 +1,3 @@
-import React from "react";
 import { Avatar } from "@material-tailwind/react";
 import avatar from "../../assets/images/avatar.jpg";
 
