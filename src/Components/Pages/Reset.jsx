@@ -10,7 +10,7 @@ const Reset = () => {
     <div className="grid grid-cols-1 justify-items-center items-center h-screen">
       <div className="w-96">
         <Typography variant="h6" color="blue-gray" className="pb-4">
-          Enter the email address associated with your account and we 'll send
+          Enter the email address associated with your account and we will send
           you a link to reset your password
         </Typography>
         <Input
