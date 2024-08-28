@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Input } from "@material-tailwind/react";
 import { Button } from "@material-tailwind/react";
 import { Typography } from "@material-tailwind/react";
