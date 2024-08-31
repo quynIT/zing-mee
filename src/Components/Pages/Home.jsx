@@ -1,4 +1,3 @@
-import React from "react";
 import LeftSide from "../LeftSidebar/LeftSide";
 import CardSection from "../Main/CardSection";
 import Navbar from "../Navbar/Navbar";
