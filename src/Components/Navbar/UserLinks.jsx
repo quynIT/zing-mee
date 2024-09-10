@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import { useContext } from "react";
 import { Tooltip } from "@material-tailwind/react";
 import { Avatar } from "@material-tailwind/react";
 import avatar from "../../assets/images/avatar.jpg";
